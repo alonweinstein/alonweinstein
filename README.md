@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is the Martian Wave, LLC website 👋
 
 <!--
 **alonweinstein/alonweinstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
